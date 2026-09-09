@@ -1,0 +1,39 @@
+RESUME: John Smith
+Senior Software Engineer
+
+SUMMARY
+Experienced software engineer with 7 years building scalable web applications
+and cloud infrastructure. Expert in Python, JavaScript, and cloud technologies.
+Strong communication skills and proven track record in agile teams.
+
+EXPERIENCE
+Senior Developer at TechCorp (2020-2024) - 4 years
+- Led development of microservices architecture using FastAPI and Kubernetes
+- Implemented PostgreSQL and Redis for high-performance data layer
+- Deployed applications to AWS using Docker and CI/CD pipelines
+- Mentored junior developers and improved team communication
+
+Full Stack Developer at WebSoft Inc (2018-2020) - 2 years
+- Built React frontend with TypeScript for customer-facing platform
+- Developed Django REST APIs serving 1M+ daily users
+- Optimized MongoDB queries improving performance by 40%
+- Collaborated with cross-functional teams using Agile/Scrum
+
+Junior Developer at StartupXYZ (2017-2018) - 1+ years
+- Created web applications using Flask and Vue.js
+- Worked with MySQL and basic DevOps tasks
+- Strong problem-solving in fast-paced startup environment
+
+SKILLS
+Programming: Python, JavaScript, TypeScript, SQL, Java
+Frameworks: FastAPI, Django, React, Vue, Angular
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+DevOps: Docker, Kubernetes, AWS, GitHub Actions, Terraform
+Tools: Git, Linux, Docker Compose, Microservices, REST APIs
+Soft Skills: Leadership, Teamwork, Communication, Problem Solving, Agile/Scrum
+
+EDUCATION
+Bachelor of Computer Science - State University (2017)
+
+CERTIFICATIONS
+AWS Certified Solutions Architect (2021)
